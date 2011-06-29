@@ -1,0 +1,187 @@
+// !$*UTF8*$!
+{
+	6DA2E7D3132D6DC100985306 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B217B26813B82DFD00E9C7DA /* DDProgressView */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 6DA2E7DB132D6DC100985306 /* DDProgressView */;
+		codeSenseManager = B217B28113B82E1200E9C7DA /* Code sense */;
+		executables = (
+			B217B26813B82DFD00E9C7DA /* DDProgressView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					402,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330837501;
+			PBXWorkspaceStateSaveDate = 330837501;
+		};
+		perUserProjectItems = {
+			B217B32E13B8422F00E9C7DA /* PBXTextBookmark */ = B217B32E13B8422F00E9C7DA /* PBXTextBookmark */;
+			B217B32F13B8422F00E9C7DA /* PlistBookmark */ = B217B32F13B8422F00E9C7DA /* PlistBookmark */;
+			B217B33013B8422F00E9C7DA /* PBXTextBookmark */ = B217B33013B8422F00E9C7DA /* PBXTextBookmark */;
+			B217B33113B8422F00E9C7DA /* PBXTextBookmark */ = B217B33113B8422F00E9C7DA /* PBXTextBookmark */;
+			B217B33213B8422F00E9C7DA /* PBXTextBookmark */ = B217B33213B8422F00E9C7DA /* PBXTextBookmark */;
+			B217B33313B8422F00E9C7DA /* PBXTextBookmark */ = B217B33313B8422F00E9C7DA /* PBXTextBookmark */;
+		};
+		sourceControlManager = B217B28013B82E1200E9C7DA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6DA2E7DB132D6DC100985306 /* DDProgressView */ = {
+		activeExec = 0;
+		executables = (
+			B217B26813B82DFD00E9C7DA /* DDProgressView */,
+		);
+	};
+	6DA2E7EA132D6DC100985306 /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {580, 385}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	6DA2E800132D6E2D00985306 /* DDProgressView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {580, 408}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{0, 517}";
+		};
+	};
+	6DA2E801132D6E2D00985306 /* DDProgressView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 1612}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 637}";
+		};
+	};
+	B217B26813B82DFD00E9C7DA /* DDProgressView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DDProgressView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B217B28013B82E1200E9C7DA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B217B28113B82E1200E9C7DA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B217B32E13B8422F00E9C7DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA2E7EA132D6DC100985306 /* en */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	B217B32F13B8422F00E9C7DA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 6DA2E7E8132D6DC100985306 /* DDProgressView-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/johnny/Desktop/Libs/ddeville-DDProgressView-ced238b/DDProgressView/DDProgressView-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B217B33013B8422F00E9C7DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8635BA136EEA8000776109 /* AppKitCompatibility.h */;
+		name = "AppKitCompatibility.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 239;
+		vrLoc = 0;
+	};
+	B217B33113B8422F00E9C7DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA2E801132D6E2D00985306 /* DDProgressView.m */;
+		name = "DDProgressView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	B217B33213B8422F00E9C7DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA2E800132D6E2D00985306 /* DDProgressView.h */;
+		name = "DDProgressView.h: 12";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 517;
+		vrLoc = 0;
+	};
+	B217B33313B8422F00E9C7DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA2E800132D6E2D00985306 /* DDProgressView.h */;
+		name = "DDProgressView.h: 12";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 517;
+		vrLoc = 0;
+	};
+	DA8635BA136EEA8000776109 /* AppKitCompatibility.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 385}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 239}";
+		};
+	};
+}
